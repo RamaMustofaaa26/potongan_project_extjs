@@ -22,7 +22,8 @@ Ext.define("TDK.GRIDpo", {
           'grand_total', 
           'last_approved', 
           'email_vendor', 
-          'group'
+          'group',
+          'estimasi'
         ],
         data: [ {} ]
       },
