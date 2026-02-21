@@ -42,7 +42,12 @@ Ext.define("TDK.mainpage", {
               text: "New Input", 
               handler: "onNewInput",  // ← Handler untuk buka FROMpo
               icon: vconfig.getstyle + "/icon/add.png"
-            },
+            },"-",
+            { 
+              text: "Delete", 
+              handler: "onNewInput",  // ← Handler untuk buka FROMpo
+              icon: vconfig.getstyle + "/icon/cancel.png"
+            }
           ]
         }
       ]
