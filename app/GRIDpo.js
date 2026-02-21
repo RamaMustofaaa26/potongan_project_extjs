@@ -72,8 +72,7 @@ Ext.define("TDK.GRIDpo", {
           { header: 'Grand Total', dataIndex: 'grand_total', width: 120 },
           { header: 'Last Approved', dataIndex: 'last_approved', width: 120 },
           { header: 'Email Vendor', dataIndex: 'email_vendor', width: 180 },
-          { header: 'Group', dataIndex: 'group', width: 80 },
-          { header: 'Estimasi', dataIndex: 'estimasi', width: 80 }
+          { header: 'Group', dataIndex: 'group', width: 80 }
         ]
       },
       listeners: {
